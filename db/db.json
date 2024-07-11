@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "email": "uri",
+      "password": "uri",
+      "name": "uri"
+    },
+    {
+      "id": "2",
+      "email": "uri1",
+      "password": "uri123",
+      "name": "uri"
+    },
+    {
+      "id": "3",
+      "email": "lei",
+      "password": "lei",
+      "name": "lei"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Starbucks",
+      "address": "Delhi Saket",
+      "contact": "1234",
+      "id": "5af6"
+    }
+  ]
+}
